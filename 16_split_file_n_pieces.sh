@@ -1,0 +1,1 @@
+split --number=l/$1 popular-names.txt
